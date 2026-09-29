@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.27vb8.cn/sitemap.xml
